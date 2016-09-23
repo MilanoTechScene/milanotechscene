@@ -180,4 +180,17 @@
 	"recurring": "TUE4",
 	"organizers": "Alessandro Muraro <akmuraro@gmail.com>",
 	"logo": "http://i.imgur.com/xggBHbn.png"
+}, {
+	"groupid": "webglmilano",
+	"name": "Khronos WebGL Milano",
+	"url": "http://www.meetup.com/Khronos-Milano-Chapter",
+	"topics": "WebGL, 3D Web, Modeling, VR/AR",
+	"format": "talk / workshop",
+	"frequency": "monthly",
+	"members": 50,
+	"newsletter": "no",
+	"forum": "",
+	"recurring": "TUE4",
+	"organizers": "Giorgio Mazzucchelli <giorgio.maz@gmail.com>",
+	"logo": "http://photos3.meetupstatic.com/photos/event/d/7/4/e/highres_437395118.jpeg"
 }]
