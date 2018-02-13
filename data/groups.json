@@ -105,7 +105,7 @@
 }, {
 	"groupid": "khronosmilano",
 	"name": "Khronos Chapter Milano",
-	"url": "http://www.3dweb.cc",
+	"url": "https://chapters.khronos.org/locations/milan",
 	"topics": "WebGL, 3d, ar/vr",
 	"format": "1/2 talks + networking OR workshop",
 	"frequency": "TBD",
@@ -114,7 +114,7 @@
 	"forum": "",
 	"recurring": "",
 	"organizers": "Giorgio Mazzucchelli <Giorgio.maz@gmail.com>, alberto massa <alberto.massa@ymail.com>, Pietro Grandi <pietro.grandi.3d@gmail.com>",
-	"logo": "http://www.3dweb.cc/images/Khronos-logo.jpg"
+	"logo": "https://chapters.khronos.org/assets/images/khronos-chapters-logo.png"
 }, {
 	"groupid": "milanophp",
 	"name": "Milano PHP",
