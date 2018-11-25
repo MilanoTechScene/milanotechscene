@@ -65,16 +65,16 @@
 	"logo": "https://raw.githubusercontent.com/maptime/milan/gh-pages/content/images/2015/08/maptimemiLogo.png"
 }, {
 	"groupid": "jugmilano",
-	"name": "JVM / Java User Group Milano",
+	"name": "JVM User Group Milano",
 	"url": "http://www.jugmilano.it",
-	"topics": "java, JVM",
+	"topics": "JVM, Java, Kotlin, Scala, Clojure, Groovy, frameworks, libraries, JVM ecosystem",
 	"format": "1 talk + 30 minutes networking + pizzata",
 	"frequency": "monthly",
 	"members": 600,
-	"newsletter": "",
+	"newsletter": "https://groups.yahoo.com/neo/groups/it-milano-java-jug/info",
 	"forum": "",
 	"recurring": "",
-	"organizers": "Andrea Iacono (andrea.iacono@gmail.com), Mario Fusco (mario.fusco@gmail.com)",
+	"organizers": "Matteo Mortari (matteo.mortari@gmail.com), Mario Fusco (mario.fusco@gmail.com), Andrea Iacono (andrea.iacono@gmail.com)",
 	"logo": "https://raw.githubusercontent.com/jugmilano/jugmilano.github.io/master/images/logo/logo_mts.jpg"
 }, {
 	"groupid": "meanmilan",
